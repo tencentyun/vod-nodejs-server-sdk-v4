@@ -39,4 +39,5 @@ fileName为文件名字
 2.执行node VodUploadApiGear.js 可看到访问命令（用法）
 
 ## SDK下载
-1.到github下载
+1.到[github](http://github.com/tencentyun/vod-nodejs-server-sdk-v4)下载
+
