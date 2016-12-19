@@ -1,0 +1,9 @@
+module.exports = { 
+    secretId: 'AKIDVg6fAoESORoM5uPbJCYPRexR5upqvMnY',
+    secretKey: 'RHFGa2b5ncckFrfZlvBAHWrHcApaSapF',
+
+    notifyUrl: 'www.fs.com',
+    fileType:  'mp4',
+    fileName:  'test',
+};
+
