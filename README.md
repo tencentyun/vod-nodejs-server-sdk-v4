@@ -17,8 +17,8 @@ function begin_process() {
 
     var api = new VodUploadApi(config);
 	// 重新设置SecretId, SecretKey
-    api.SetSecretId('AKIDvzvn8Clc7Ck0L0uR8yIU3Csjlnfnrxjs');
-    api.SetSecretKey('EHLKDE4LFcUAxxPEfHziTMwuwZZk3bKt');
+    api.SetSecretId('AKIDvzvn8C************');
+    api.SetSecretKey('EHLKDE4LFc*************');
     api.SetRegion("gz");
     api.UploadVideo(filePath, config['fileName'], config['fileType'],slicePage, config['notifyUrl'], function(err, data) {
         if (err) {
